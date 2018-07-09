@@ -1,0 +1,22 @@
+body{
+    background: #AFEEEE;
+}
+h1{
+    color: blueviolet;
+    font-style: 20px;
+}
+nav{
+    background: red;
+}
+nav a{
+    color: #191970;
+}
+#tabla1{
+    background:	#4682B4;
+}
+#tabla2{
+    background:	#5F9EA0;
+}
+footer h1{
+    color: yellow;
+}
